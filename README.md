@@ -1,4 +1,4 @@
-# Web3 Energy Trade
+# !ink Python Cli App
 
 This project provides a service that interacts with a private blockchain using smart contracts for storing and retrieving energy trades. It uses the Substrate framework for creating a private blockchain, running locally with only one node, and a smart contract written in Ink to handle the operations of read/write of the trade objects to the blockchain. The Python CLI script is used to deploy and interact with the smart contract.
 
